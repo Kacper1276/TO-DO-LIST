@@ -1,0 +1,60 @@
+body{
+    background-image: url(sandiego.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+input[type=text]{
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    width: 300px;
+}
+.add{
+    display: block;
+    position: absolute;
+    right: 560px;
+    top: 309px;
+    border: none;
+    height: 32px;
+    width: 70px;
+    background-color: cornflowerblue;
+
+}
+#content{
+    
+    height: 200px;
+    width: 300px;
+}
+h2{
+    color: white;
+    font-size: 54px;
+    font-family:fantasy;
+    letter-spacing: 4px;
+}
+li{
+    list-style-type: none;
+    margin-top: 2px;
+    border-top: 1px solid white;
+    padding-bottom: 0.5rem;
+}
+.add{
+    display: block;
+    border: none;
+    width: 70px;
+    background-color: cornflowerblue;
+}
+button{
+        height:30px;
+        background-color: cornflowerblue;
+        border: none;
+        
+}
+.white{
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
